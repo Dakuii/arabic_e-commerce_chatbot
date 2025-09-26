@@ -4,4 +4,4 @@
 
 ▪️ Fine-tuning du modèle LLaMa sur un dataset en langue arabe pour adapter le système aux spécificités linguistiques des utilisateurs marocains.
 
-## Outils : Python, Transformers, PEFT, FastAPI, Llama, Wandb, Postman, React.js, HTML/CSS/JS, Git.
+### Outils : Python, Transformers, PEFT, FastAPI, Llama, Wandb, Postman, React.js, HTML/CSS/JS, Git.
